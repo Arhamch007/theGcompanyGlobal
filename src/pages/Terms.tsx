@@ -27,7 +27,7 @@ const Terms = () => {
               may vary. Message and data rates may apply. Reply STOP to opt out
               at any time. Reply HELP for assistance or visit{" "}
               <a
-                href="https://thegcompaniesgroup.com/"
+                href="http://thegcompanyglobal.it.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className=""
@@ -36,7 +36,7 @@ const Terms = () => {
               </a>
               . See our{" "}
               <a
-                href="https://thegcompaniesgroup.com/privacy"
+                href="https://thegcompanyglobal.it.com/privacy"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -44,7 +44,7 @@ const Terms = () => {
               </a>{" "}
               and{" "}
               <a
-                href="https://thegcompaniesgroup.com/terms"
+                href="https://thegcompanyglobal.it.com/terms"
                 target="_blank"
                 rel="noopener noreferrer"
               >
