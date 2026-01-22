@@ -80,9 +80,9 @@ const Index = () => {
               <Phone className="h-4 w-4" />
               1-800-555-0123
             </a>
-            <a href="mailto:info@securelifesolutions.com" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground">
+            <a href="mailto:info@thegcompanyglobal.it.com" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground">
               <Mail className="h-4 w-4" />
-              info@securelifesolutions.com
+              info@thegcompanyglobal.it.com
             </a>
           </div>
         </div>
@@ -217,7 +217,7 @@ const Index = () => {
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 text-sm text-muted-foreground md:flex-row">
           <div className="flex items-center gap-2">
             <MapPin className="h-4 w-4" />
-            <span>123 Insurance Plaza, Suite 100, Phoenix, AZ 85001</span>
+            <span>123 Insurance Plaza, Suite 100, Austin, TX 78701</span>
           </div>
           <div className="flex items-center gap-6">
             <a href="tel:1-800-555-0123" className="flex items-center gap-2 hover:text-foreground">

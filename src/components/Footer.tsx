@@ -9,18 +9,23 @@ const Footer = () => {
             © {new Date().getFullYear()} Your Company. All rights reserved.
           </p>
           <nav className="flex items-center gap-6">
-            <Link
-              to="/terms"
+            <a
+              href="/terms"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-sm text-muted-foreground transition-colors hover:text-foreground"
             >
               Terms & Conditions
-            </Link>
-            <Link
-              to="/privacy"
+            </a>
+
+            <a
+              href="/privacy"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-sm text-muted-foreground transition-colors hover:text-foreground"
             >
               Privacy Policy
-            </Link>
+            </a>
           </nav>
         </div>
       </div>
