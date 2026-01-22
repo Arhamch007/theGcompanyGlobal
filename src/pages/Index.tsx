@@ -224,9 +224,9 @@ const Index = () => {
               <Phone className="h-4 w-4" />
               1-800-555-0123
             </a>
-            <a href="mailto:info@securelifesolutions.com" className="flex items-center gap-2 hover:text-foreground">
+            <a href="mailto:info@thegcompanyglobal.it.com" className="flex items-center gap-2 hover:text-foreground">
               <Mail className="h-4 w-4" />
-              info@securelifesolutions.com
+              info@thegcompanyglobal.it.com
             </a>
           </div>
         </div>
